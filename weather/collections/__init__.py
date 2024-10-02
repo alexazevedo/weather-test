@@ -1,0 +1,1 @@
+from weather.collections import cities_weather
